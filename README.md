@@ -7,3 +7,5 @@ Preferred Order for users:
 
 1. Introduction to python (introduction.ipynb)
 2. If-Else in Python (if-else.ipynb)
+3. While loop in Python (while_loop.ipynb)
+4. For loop in Python (for-loop.ipynb)
